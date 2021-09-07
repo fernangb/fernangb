@@ -4,7 +4,7 @@
 ## I’m currently working with:
 ### - NestJS
 ### - React
-### - MySQL
+### - MySQL / PostgreSQL / MongoDB / Elasticsearch
 
 ## I’m currently learning:
 ### - NestJS
