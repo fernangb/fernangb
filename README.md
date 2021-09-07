@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Eletronic and Computing Engineering student - UFRJ
+## Eletronic and Computing Engineering - UFRJ
 ## I’m currently working with:
 ### - NestJS
 ### - React
