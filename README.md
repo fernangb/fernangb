@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-## Eletronic and Computing Engineering - UFRJ
+## Software Engineer
 ## I’m currently working with:
-### - NestJS
-### - React
+### - NodeJS / Javascript / Typescript / NestJS / Java / Kotlin / Jest
 ### - MySQL / PostgreSQL / MongoDB / Elasticsearch
+### - React / HTML / CSS
+### - Kafka / RabbitMQ / Datadog
 
 ## I’m currently learning:
-### - NestJS
-### - React
-### - React Native
-### - Express
 ### - AWS
+### - Kotlin
