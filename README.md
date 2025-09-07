@@ -48,6 +48,7 @@ I value **collaboration in multidisciplinary teams**, **knowledge sharing**, and
 ---
 
 ## 📌 Featured Projects
+- [**app-divulga-ic**](https://github.com/fernangb/shared-expenses-backend) – TypeScript app for shared expenses
 - [**app-divulga-ic**](https://github.com/fernangb/app-divulga-ic) – TypeScript app for IC vacancy management
 - [**divulga-ic-api**](https://github.com/fernangb/divulga-ic-api) – Node.js API for IC app
 - [**fernangb**](https://github.com/fernangb/fernangb) – Boilerplate / personal projects
