@@ -58,7 +58,3 @@ I value **collaboration in multidisciplinary teams**, **knowledge sharing**, and
 ## 📫 Connect with Me
 [LinkedIn](https://linkedin.com/in/fernangb) | [Email](mailto:fernangb94@gmail.com) | [Portfolio](https://fernangb.github.io/)
 
----
-
-## 📈 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernangb&show_icons=true&theme=radical)
